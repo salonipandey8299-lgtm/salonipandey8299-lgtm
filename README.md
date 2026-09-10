@@ -14,7 +14,7 @@
   <a href="https://github.com/salonipandey8299-lgtm">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/salonipandey/">
+  <a href="www.linkedin.com/in/saloni-pandey-33075532b">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
